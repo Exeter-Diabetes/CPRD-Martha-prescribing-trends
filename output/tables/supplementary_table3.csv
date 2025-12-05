@@ -1,0 +1,49 @@
+"Frailty","Outcome","Year","n","No. of outcome events","Crude incidence rate /1000 person-years"
+"Age ≤ 70 years","DKA",2019,11444,5,0.6
+"Age ≤ 70 years","DKA",2020,9956,8,1.1
+"Age ≤ 70 years","DKA",2021,12406,11,1.2
+"Age ≤ 70 years","DKA",2022,14237,5,0.6
+"Age ≤ 70 years","Heart failure",2019,11444,21,2.4
+"Age ≤ 70 years","Heart failure",2020,9956,25,3.3
+"Age ≤ 70 years","Heart failure",2021,12406,35,3.8
+"Age ≤ 70 years","Heart failure",2022,14237,33,4.3
+"Age ≤ 70 years","Kidney failure",2019,11444,20,2.3
+"Age ≤ 70 years","Kidney failure",2020,9956,18,2.4
+"Age ≤ 70 years","Kidney failure",2021,12406,12,1.3
+"Age ≤ 70 years","Kidney failure",2022,14237,14,1.8
+"Age ≤ 70 years","Severe diabetes-related complications",2019,11444,106,12.2
+"Age ≤ 70 years","Severe diabetes-related complications",2020,9956,90,12
+"Age ≤ 70 years","Severe diabetes-related complications",2021,12406,107,11.8
+"Age ≤ 70 years","Severe diabetes-related complications",2022,14237,91,11.8
+"Non-frail > 70 years","DKA",2019,2628,0,0
+"Non-frail > 70 years","DKA",2020,1920,1,0.7
+"Non-frail > 70 years","DKA",2021,2737,2,1
+"Non-frail > 70 years","DKA",2022,3303,2,1.1
+"Non-frail > 70 years","Heart failure",2019,2628,11,5.4
+"Non-frail > 70 years","Heart failure",2020,1920,8,5.4
+"Non-frail > 70 years","Heart failure",2021,2737,24,11.9
+"Non-frail > 70 years","Heart failure",2022,3303,18,10
+"Non-frail > 70 years","Kidney failure",2019,2628,6,3
+"Non-frail > 70 years","Kidney failure",2020,1920,3,2
+"Non-frail > 70 years","Kidney failure",2021,2737,2,1
+"Non-frail > 70 years","Kidney failure",2022,3303,4,2.2
+"Non-frail > 70 years","Severe diabetes-related complications",2019,2628,37,18.4
+"Non-frail > 70 years","Severe diabetes-related complications",2020,1920,26,17.6
+"Non-frail > 70 years","Severe diabetes-related complications",2021,2737,48,23.8
+"Non-frail > 70 years","Severe diabetes-related complications",2022,3303,46,25.6
+"Frail > 70 years","DKA",2019,1719,0,0
+"Frail > 70 years","DKA",2020,1437,0,0
+"Frail > 70 years","DKA",2021,1972,6,4.2
+"Frail > 70 years","DKA",2022,2418,1,0.8
+"Frail > 70 years","Heart failure",2019,1719,39,30.9
+"Frail > 70 years","Heart failure",2020,1437,31,30.3
+"Frail > 70 years","Heart failure",2021,1972,54,38.1
+"Frail > 70 years","Heart failure",2022,2418,62,47.9
+"Frail > 70 years","Kidney failure",2019,1719,7,5.5
+"Frail > 70 years","Kidney failure",2020,1437,9,8.7
+"Frail > 70 years","Kidney failure",2021,1972,8,5.6
+"Frail > 70 years","Kidney failure",2022,2418,5,3.8
+"Frail > 70 years","Severe diabetes-related complications",2019,1719,78,62.5
+"Frail > 70 years","Severe diabetes-related complications",2020,1437,68,67.4
+"Frail > 70 years","Severe diabetes-related complications",2021,1972,86,61.4
+"Frail > 70 years","Severe diabetes-related complications",2022,2418,104,81.2
